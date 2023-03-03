@@ -1,0 +1,61 @@
+/* Write your code here. */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  padding: 50px;
+}
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container2 {
+  width: 50%;
+}
+.heading {
+  max-width: 350px;
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.img {
+  width: 60%;
+  height: 90%;
+}
+.input-style {
+  min-width: 400px;
+  padding: 8px;
+  border-radius: 5px;
+  border-width: 1px;
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+  cursor: pointer;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #ffffff;
+  color: #219a6f;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 20%;
+  border-width: 0px;
+}
+.margin-top {
+  margin-top: 10px;
+}
